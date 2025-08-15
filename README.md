@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Shaikh Zishan 👋
 
-<!--
-**shaikhzishan/shaikhzishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **M.Sc. Big Data Analytics** Student at St. Xavier’s College, Mumbai  
+💻 Passionate about **Data Science, Machine Learning, and Big Data**  
+📊 Skilled in **Python, SQL, TensorFlow, Scikit-learn, Power BI**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Languages:** Python, SQL, R (Basics)  
+- **ML/DL:** Logistic Regression, Random Forest, LSTM, RNN  
+- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
+- **Big Data Tools:** Hadoop (Basics), Spark (Basics)  
+
+---
+
+## 📌 Featured Projects
+- [Credit Card Fraud Detection](#)  
+- [WESAD Dataset Stress Detection](#)  
+- [Sales Dashboard in Power BI](#)  
+
+---
+
+## 🌐 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikh.zish982@gmail.com)
+
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaikhzishan&show_icons=true&theme=tokyonight)
