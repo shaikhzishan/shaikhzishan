@@ -126,9 +126,9 @@ I'm particularly interested in roles where I can work with **SQL, Power BI, Pyth
 
 **GitHub:** https://github.com/shaikhzishan
 
-**LinkedIn:** Add your LinkedIn URL
+**LinkedIn:** www.linkedin.com/in/shaikhzishan982
 
-**Email:** Add your professional email
+**Email:** shaikh.zish982@gmail.com
 
 ---
 
